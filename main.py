@@ -20,7 +20,6 @@ def main(config):
         train_data, train_label = train_df['reviews'], train_df['label']
         test_data, test_label = test_df['reviews'], test_df['label']
         train_inputs, train_labels = preprocess(train_data, train_label)
-        checkpoint_path = 'save/'
 
         if not os.path.exists(checkpoint_path):
             os.makedirs(checkpoint_path)
