@@ -2,6 +2,9 @@
 train_path = "dataset/train.csv"
 test_path = "dataset/test.csv"
 
+# Save data
+checkpoint_path = "save/"
+
 # Sequence length
 SEQ_LEN = 128
 
