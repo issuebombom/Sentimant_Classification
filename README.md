@@ -1,1 +1,1 @@
-# Sentimant_Classification
+# Sentiment_Classification
