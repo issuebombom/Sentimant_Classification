@@ -1,4 +1,4 @@
 # Sentiment_Classification
 
 
-KoBERT 모델 Fine-Tuning 을 통해 리뷰 긍/부정을 
+KoBERT 모델을 Fine-Tuning한 모델로 리뷰의 긍/부정을 구분합니다.
